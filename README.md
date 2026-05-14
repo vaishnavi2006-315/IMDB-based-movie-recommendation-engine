@@ -1,3 +1,6 @@
+<img width="1801" height="805" alt="image" src="https://github.com/user-attachments/assets/9bb61d72-b24b-4173-9e7d-15ff190d6d75" />
+
+
 # MovieMatch – Intelligent Movie Recommendation System
 
 MovieMatch is a machine learning based movie recommendation web application built using Python and Streamlit. The system suggests similar movies based on content such as genre, director, actors, and plot description.
